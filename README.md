@@ -1,0 +1,2 @@
+# ahkscript
+ahk脚本
